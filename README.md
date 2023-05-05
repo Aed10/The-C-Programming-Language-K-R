@@ -1,3 +1,3 @@
 Test New Command
 Test
-Using aicommits 
+Using aicommits in my script. 
